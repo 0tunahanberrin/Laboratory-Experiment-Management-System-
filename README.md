@@ -3,6 +3,9 @@
 ## 🌱 Project Overview
 The **Laboratory Experiment Management System (LEMS)** was developed for **BioSphere Innovations Ltd.** to manage and consolidate research activities conducted across laboratories in the UK, Lithuania, and India. The project aims to replace analog and fragmented digital processes with a unified infrastructure that tracks the effects of chemical and biological samples on plants.
 
+**Live Prototype:** [lab-nexus-flow.lovable.app](https://lab-nexus-flow.lovable.app)
+
+
 ## 👥 Team Members
 - [Sopio Injia](#) — https://www.linkedin.com/in/sopio-injia-b99ab6200/
 - [Taylan Can Köse](#) — https://www.linkedin.com/in/taylancankose/
